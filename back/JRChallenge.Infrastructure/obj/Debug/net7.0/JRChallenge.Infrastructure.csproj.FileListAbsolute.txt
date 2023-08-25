@@ -1,0 +1,15 @@
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\bin\Debug\net7.0\JRChallenge.Infrastructure.deps.json
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\bin\Debug\net7.0\JRChallenge.Infrastructure.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\bin\Debug\net7.0\JRChallenge.Infrastructure.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\bin\Debug\net7.0\JRChallenge.Domain.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\bin\Debug\net7.0\JRChallenge.Domain.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.csproj.CopyComplete
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\refint\JRChallenge.Infrastructure.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\JRChallenge.Infrastructure.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Infrastructure\obj\Debug\net7.0\ref\JRChallenge.Infrastructure.dll

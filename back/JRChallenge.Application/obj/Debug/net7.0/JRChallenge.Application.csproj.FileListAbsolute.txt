@@ -1,0 +1,15 @@
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\bin\Debug\net7.0\JRChallenge.Application.deps.json
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\bin\Debug\net7.0\JRChallenge.Application.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\bin\Debug\net7.0\JRChallenge.Application.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\bin\Debug\net7.0\JRChallenge.Domain.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\bin\Debug\net7.0\JRChallenge.Domain.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.csproj.AssemblyReference.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.AssemblyInfoInputs.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.AssemblyInfo.cs
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.csproj.CopyComplete
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\refint\JRChallenge.Application.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\JRChallenge.Application.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Application\obj\Debug\net7.0\ref\JRChallenge.Application.dll

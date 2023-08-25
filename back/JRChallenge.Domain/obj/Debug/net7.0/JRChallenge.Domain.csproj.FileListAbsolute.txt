@@ -1,0 +1,12 @@
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\bin\Debug\net7.0\JRChallenge.Domain.deps.json
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\bin\Debug\net7.0\JRChallenge.Domain.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\bin\Debug\net7.0\JRChallenge.Domain.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\JRChallenge.Domain.csproj.AssemblyReference.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\JRChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\JRChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\JRChallenge.Domain.AssemblyInfo.cs
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\JRChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\JRChallenge.Domain.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\refint\JRChallenge.Domain.dll
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\JRChallenge.Domain.pdb
+C:\Users\Javysk\Desktop\N5 Challenge TL Javier Rojas\back\JRChallenge.Domain\obj\Debug\net7.0\ref\JRChallenge.Domain.dll
